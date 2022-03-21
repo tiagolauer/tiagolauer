@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Tiago Lauer.
 
-- 🔭 Hoje estudo Back-End;
+- 🔭 Hoje estudo web;
 - 🌱 Estudando PHP/MySQL;
 - 😄 Pronouns: Ele/Dele;
 
