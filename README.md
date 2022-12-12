@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Tiago Lauer.
 
-- 🔭 Hoje estudo web;
+- 🔭 Hoje estudo backend;
 - 🌱 Estudando JavaScript e Bando de Dados;
 - 😄 Desenvolvedor do bot Codeine;
 
