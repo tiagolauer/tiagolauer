@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Tiago Lauer.
 
 - 🔭 Hoje estudo web;
-- 🌱 Estudando PHP/MySQL;
-- 😄 Pronouns: Ele/Dele;
+- 🌱 Estudando JavaScript e Bando de Dados;
+- 😄 Desenvolvedor do bot Codeine;
 
 <div align="center">
   <a href="https://github.com/tiagolauer">
