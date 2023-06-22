@@ -1,31 +1,52 @@
-## Olá! Eu sou o Tiago Lauer.
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 
-- 🔭 Hoje estudo backend;
-- 🌱 Estudando JavaScript e Bando de Dados;
-- 😄 Desenvolvedor do bot Codeine;
+<h3> Hey there👋! I'm Tiago Lauer, but you can call me as Alaska.</h2>
+<h2> Currently working as a Software Tester and Q&A at Bravus Sistemas ERP</h2>
 
-<div align="center">
-  <a href="https://github.com/tiagolauer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagolauer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolauer&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</div>
+## 👨🏻‍💻 &nbsp;About Me 
+
+- 🤔 &nbsp; Exploring new technologies and developing web solutions and quick hacks.
+- 🎓 &nbsp; Studied Analysis and Systems Development.
+- 💼 &nbsp; Learning about Angular, Ionic and Typescript.
+- 👨🏻‍💻 &nbsp; Freelancer 
+
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagolauer&label=Profile%20views&color=0e75b6&style=flat" alt="alaska" /> </p>
+
+[![LinkedIn](https://img.shields.io/badge/-tiagolauer-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-lauer-7601871ab/)](https://www.linkedin.com/in/tiago-lauer-7601871ab/)
+[![Gmail Badge](https://img.shields.io/badge/-tiagoestrelalauer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagoestrelalauer@gmail.com)](mailto:tiagoestrelalauer@gmail.com)
+
+
+## 🛠 &nbsp;Tech Stack
+
+- 💻 &nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=bootstrap&logoColor=1572B6)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 📱 &nbsp;
+  ![ReactNative](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   
-  ##
- 
-<div> 
-  <a href="https://instagram.com/js_lauer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/alaskacsgo" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/d9D2bQaK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href = "mailto:tiagoestrelalauer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/tiago-estrela-lauer-7601871ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://api.whatsapp.com/send?phone=5547984024581&text=DEV%20TIAGO%20LAUER" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+<br/>
+
+## 📈 Stats
+
+![Prathmesh's github stats](https://github-readme-stats.vercel.app/api?username=tiagolauer&hide=["issues"]&show_icons=true&line_height=30)
+
+![Prathmesh's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolauer&theme=buefy&layout=compact&langs_count=10)
+
+----
