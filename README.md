@@ -45,8 +45,7 @@
 
 ## 📈 Stats
 
-![Prathmesh's github stats](https://github-readme-stats.vercel.app/api?username=tiagolauer&hide=["issues"]&show_icons=true&line_height=30)
-
-![Prathmesh's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolauer&theme=buefy&layout=compact&langs_count=10)
+  <img src = "https://github-readme-stats.vercel.app/api?username=tiagolauer&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolauer&theme=tokyonight">
 
 ----
