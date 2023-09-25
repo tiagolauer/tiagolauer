@@ -3,7 +3,7 @@
 </p>
 
 <h3> Hey there👋! I'm Tiago Lauer, but you can call me as Alaska.</h2>
-<h2> Currently working as a Software Tester and Q&A at Bravus Sistemas ERP</h2>
+<h2> Currently working as a System Developer at 株式会社DJIN Tech Solutions</h2>
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
