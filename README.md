@@ -9,7 +9,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing web solutions and quick hacks.
 - 🎓 &nbsp; Studied Analysis and Systems Development.
-- 💼 &nbsp; Learning about Angular, Ionic and Typescript.
+- 💼 &nbsp; Learning about VueJS, Supabase & NuxtJS.
 - 👨🏻‍💻 &nbsp; Freelancer 
 
 <br>
