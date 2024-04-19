@@ -3,13 +3,13 @@
 </p>
 
 <h3> Hey there👋! I'm Tiago Lauer, but you can call me as Alaska.</h2>
-<h2> Currently working as a System Developer at 株式会社DJIN Tech Solutions</h2>
+<h2> Currently Learning About IONIC</h2>
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing web solutions and quick hacks.
 - 🎓 &nbsp; Studied Analysis and Systems Development.
-- 💼 &nbsp; Learning about VueJS, Supabase & NuxtJS.
+- 💼 &nbsp; Looking for job.
 - 👨🏻‍💻 &nbsp; Freelancer 
 
 <br>
