@@ -3,7 +3,7 @@
 </p>
 
 <h3> Hey there👋! I'm Tiago Lauer, but you can call me as Alaska.</h2>
-<h2> Currently Learning About IONIC</h2>
+<h2> Currently Learning About VueJS</h2>
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
