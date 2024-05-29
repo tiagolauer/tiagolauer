@@ -14,7 +14,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagolauer&label=Profile%20views&color=0e75b6&style=flat" alt="alaska" /> </p>
 
-[![LinkedIn](https://img.shields.io/badge/-tiagolauer-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-lauer-7601871ab/)](https://www.linkedin.com/in/tiago-lauer-7601871ab/)
+[![LinkedIn](https://img.shields.io/badge/-tiagolauer-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagolauer/)](https://www.linkedin.com/in/tiagolauer/)
 [![Gmail Badge](https://img.shields.io/badge/-tiagoestrelalauer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagoestrelalauer@gmail.com)](mailto:tiagoestrelalauer@gmail.com)
 
 ## 🚀 &nbsp;Skills
