@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing web solutions and quick hacks.
 - 🎓 &nbsp; Studied Analysis and Systems Development.
-- 💼 &nbsp; Looking for job.
+- 💼 &nbsp; Working for Beeasy.
 - 👨🏻‍💻 &nbsp; Freelancer 
 
 <br>
