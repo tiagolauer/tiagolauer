@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor Frontend com mais de 4 anos de experiência, especializado em criar interfaces intuitivas e sistemas web otimizados. Atualmente trabalhando na Beeasy e realizando projetos freelance.
+Desenvolvedor Frontend com mais de 5 anos de experiência, especializado em criar interfaces intuitivas e sistemas web otimizados. Atualmente realizando projetos freelance.
 
 - 🔭 Explorando novas tecnologias e desenvolvendo soluções web inovadoras
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
