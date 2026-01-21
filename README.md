@@ -22,7 +22,7 @@ React Native · Expo · TypeScript · Redux · React Navigation
 React · Vue.js · JavaScript · Tailwind CSS · Bootstrap
 
 **Backend & Data**
-Node.js · Express · Java · PHP · Supabase · PostgreSQL · MySQL
+Node.js · Express · PHP · Supabase · PostgreSQL · MySQL
 
 **Tools**
 Git · GitHub · REST APIs
