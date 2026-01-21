@@ -50,7 +50,6 @@ Complete sales and inventory management system for Cometa Portas & Janelas. Buil
 
 - **Zuno** — Discord RPG bot with MMORPG mechanics and persistent progression
 - **MoodSync** — Social app built with React Native and Supabase
-- **EvoTalks** — Intelligent support and automation system
 - **I've Been Here** — Location-based event tracking app
 
 ---
