@@ -39,13 +39,6 @@ Git · GitHub · REST APIs
 
 ---
 
-## Featured Work
-
-### [CometaPortasSistema](https://github.com/tiagolauer/CometaPortasSistema)
-Complete sales and inventory management system for Cometa Portas & Janelas. Built with TypeScript, Node.js, Vue.js, and MySQL. Handles the full pipeline from sales to delivery tracking.
-
----
-
 ## Currently Building
 
 - **Zuno** — Discord RPG bot with MMORPG mechanics and persistent progression
