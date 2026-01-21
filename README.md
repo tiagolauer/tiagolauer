@@ -54,15 +54,6 @@ Complete sales and inventory management system for Cometa Portas & Janelas. Buil
 
 ---
 
-## Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tiagolauer&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolauer&layout=compact&langs_count=6&theme=default&hide_border=true"/>
-</div>
-
----
-
 ## Let's Talk
 
 Open to mobile and full-stack opportunities, interesting collaborations, or just a good tech conversation.
