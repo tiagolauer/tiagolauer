@@ -97,7 +97,7 @@ Focused on **mobile architecture**, **scalable system design**, and **AI-powered
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[KangoOS](https://github.com/tiagolauer/KangoOS)** | Self-hosted snippet manager with contextual LLM chat (RAG) — open-source alternative to Pieces OS | Dart · Flutter · Ollama |
+| **[pieces-to-agents](https://github.com/tiagolauer/pieces-to-agents)** | Turns your Pieces Long-Term Memory into an AGENTS.md your coding agents can read | TypeScript · Node · MCP |
 | **[OwlSQL](https://github.com/tiagolauer/OwlSQL)** | Compile-time typed SQL for TypeScript — no ORM, no codegen, no runtime parsing | TypeScript |
 | **[I've Been Here](https://github.com/tiagolauer/ivebeenhere-v1)** | Location-based event tracking app | React Native · Maps API |
 
