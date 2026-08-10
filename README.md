@@ -13,7 +13,7 @@
 
 **6+ years** shipping production systems from prototype to 10K+ users, across mobile and web.<br/>
 Currently **Full-Stack Technical Lead**, setting architecture standards and leading code review for the team.<br/>
-Based in **Balneário Camboriú, Brazil** 🇧🇷
+Based in **Brusque, Brazil** 🇧🇷
 
 Focused on **mobile architecture**, **scalable system design**, and **AI-powered integrations**.
 
