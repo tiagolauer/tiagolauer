@@ -1,0 +1,44 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: '17 */2 * * *'
+  push:
+    branches: [main]
+    paths:
+      - cool-readme.yml
+      - .github/workflows/cool-readme.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-cards
+  cancel-in-progress: true
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+      - uses: pedrocatalao/github-cool-readme@909e532bf5d2847b26d156b91c0d086e6e7781ae # v1.8.1
+        with:
+          token: ${{ secrets.CARDS_TOKEN }}
+          output: ${{ runner.temp }}/cards
+      - name: Publish the cards on the cards branch
+        run: |
+          if ! ls "$RUNNER_TEMP"/cards/*.svg >/dev/null 2>&1; then echo "No cards: they're off"; exit 0; fi
+          git fetch --quiet --depth 1 origin cards:refs/remotes/origin/cards 2>/dev/null || true
+          git switch --quiet --orphan cards
+          cp "$RUNNER_TEMP"/cards/*.svg .
+          git add -- *.svg
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit --quiet -m 'Update README cards'
+          if git rev-parse --quiet --verify origin/cards >/dev/null && git diff --quiet origin/cards HEAD; then
+            echo "No changes"
+            exit 0
+          fi
+          git push --force origin cards

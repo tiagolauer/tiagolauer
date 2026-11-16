@@ -1,0 +1,10 @@
+show: [summary, languages, weekly, streaks]
+
+look:
+  style: oled
+  color: amber
+  background: 0d0b07
+
+cards:
+  summary:
+    ring: github
